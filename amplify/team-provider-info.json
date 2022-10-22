@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-traveladvisor-dev-13626-authRole",
+      "UnauthRoleArn": "arn:aws:iam::137729209211:role/amplify-traveladvisor-dev-13626-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::137729209211:role/amplify-traveladvisor-dev-13626-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-traveladvisor-dev-13626-deployment",
+      "UnauthRoleName": "amplify-traveladvisor-dev-13626-unauthRole",
+      "StackName": "amplify-traveladvisor-dev-13626",
+      "StackId": "arn:aws:cloudformation:ca-central-1:137729209211:stack/amplify-traveladvisor-dev-13626/79681a70-51cb-11ed-860b-0e6f53dd7142",
+      "AmplifyAppId": "d2mobflc8v1hw9"
+    }
+  }
+}

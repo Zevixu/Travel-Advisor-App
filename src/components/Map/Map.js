@@ -9,7 +9,7 @@ const Map=({setPlaceClick, places,centercoor, setCenter, setBound}) => {
     const style_class=useStyles();
     const isDesk=useMediaQuery('(min-width:600px)'); //return false if the viewport is smaller than 600px
     const coords={lat:0,lng:0};
-    const google_map_api_key=''; //your access key to the google map api
+    const google_map_api_key='AIzaSyA0xcG9udaDiVDsfu20hGYWoV2iZmEI-w8'; //your access key to the google map api
 
     return (
         <div className={style_class.mapContainer}>
