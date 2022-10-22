@@ -10,6 +10,14 @@
       "StackName": "amplify-traveladvisor-dev-13626",
       "StackId": "arn:aws:cloudformation:ca-central-1:137729209211:stack/amplify-traveladvisor-dev-13626/79681a70-51cb-11ed-860b-0e6f53dd7142",
       "AmplifyAppId": "d2mobflc8v1hw9"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2mobflc8v1hw9",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
